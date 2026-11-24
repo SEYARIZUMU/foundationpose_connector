@@ -1,0 +1,14 @@
+# environment and the upstream clone: set up separately
+miniforge3/
+cache/
+FoundationPose/
+# recorded frames and results
+work/inputs/
+work/out/
+work/sim_inputs/
+work/sim_out/
+*.npz
+*.log
+__pycache__/
+# Molex CAD (not redistributed)
+work/4699*-0620_m.obj

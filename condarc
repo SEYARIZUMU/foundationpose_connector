@@ -1,0 +1,7 @@
+pkgs_dirs:
+  - /home/seya/foundationpose/miniforge3/pkgs
+envs_dirs:
+  - /home/seya/foundationpose/miniforge3/envs
+auto_activate_base: false
+channels:
+  - conda-forge
